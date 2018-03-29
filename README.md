@@ -10,3 +10,4 @@ PS：处理真的只是简单处理，比如大佬们上传的webshell、一些�
 
 详情看文章：
 
+[Wooyun漏洞地址url爬虫及数据处理](http://byd.dropsec.xyz/2018/03/28/Wooyun%E6%BC%8F%E6%B4%9E%E5%9C%B0%E5%9D%80url%E7%88%AC%E8%99%AB%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/)
